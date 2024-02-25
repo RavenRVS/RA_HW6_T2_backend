@@ -2,4 +2,4 @@
 
 ---  
 
-### Ссылкка на [frontend репозиторий](https://github.com/RavenRVS/RA_HW6_T2)
+### Ссылка на [frontend репозиторий](https://github.com/RavenRVS/RA_HW6_T2)
